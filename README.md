@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo 👋
 
-**Backend Developer** · Java · Kotlin · Spring Boot · APIs & Microservices
+**Software Engineer** · **Backend Developer** · Java · Kotlin · Spring Boot · APIs & Microservices
 
 I've spent nearly 7 years building APIs and backend services. I design REST APIs,
 integrate third-party systems, and ship them with Docker, documented and tested.
