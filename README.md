@@ -2,7 +2,7 @@
 
 **Software Engineer** · **Backend Developer** · Java · Kotlin · Spring Boot · APIs & Microservices
 
-I've spent nearly 7 years building APIs and backend services. I design REST APIs,
+I've been building APIs and backend services since 2020. I design REST APIs,
 integrate third-party systems, and ship them with Docker, documented and tested.
 
 🟢 **Open to freelance projects** · 📍 México · 📧 [isw_efm@icloud.com](mailto:isw_efm@icloud.com) · 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-fernandez-morales/)
