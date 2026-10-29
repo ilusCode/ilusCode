@@ -13,8 +13,8 @@ integrate third-party systems, and ship them with Docker, documented and tested.
 
 | Area | Tools |
 |---|---|
-| **Languages** | Java · Kotlin · Python |
-| **Frameworks** | Spring Boot · FastAPI |
+| **Languages** | Java · Kotlin · Python · TypeScript |
+| **Frameworks** | Spring Boot · FastAPI · Angular |
 | **Databases** | SQL · MariaDB · MongoDB · Firebase |
 | **DevOps** | Docker · nginx · Git |
 | **API tooling** | OpenAPI / Swagger · Postman · pytest · JUnit |
